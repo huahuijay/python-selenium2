@@ -1,0 +1,5 @@
+这是python关于自动化的代码，包含了selenium2的API的基础知识的代码，
+也包含了python单元测试框架的unittest的代码，还有HTMLTestRunner.py
+测试结果报告，这是我个人学习selenium2 webdriver总结的代码，这部分
+是一个完整的项目代码，结构我已基本分清，在实际的工作中，结合持续
+构建工具hudson可以完美的实现自动化。
